@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2b6f84309a1b348b5ef61112cc6102, type: 3}
+  m_Name: DronSilver
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 4406870362750686104, guid: 77929fd1fc9fb8041989ba1f8792b390, type: 3}
+  Type: 3
+  Health: 0

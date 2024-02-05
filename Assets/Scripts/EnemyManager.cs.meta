@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d819f91375d18a48968d1984d1f2b4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gameMenager: {instanceID: 0}
+  - _fabric: {fileID: 11400000, guid: 6b95f3f954d1f274a897f01c163bb5c2, type: 2}
+  - _destinationTarget: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
